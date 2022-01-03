@@ -1,0 +1,10 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			CHN = { 
+				load_focus_tree = CHN_rework2
+				hidden_effect = { mark_focus_tree_layout_dirty = yes }
+			}
+		}
+	}
+}
