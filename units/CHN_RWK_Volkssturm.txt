@@ -1,0 +1,25 @@
+division_template = { #He9
+	name = "Volkssturm Brigade"			#10w Infantry Brigade (Trained)
+	priority = 0
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+	}
+}
+
+units = {
+	division = {
+		name = "Volkssturm Brigade"
+		location = 11045
+		division_template = "Volkssturm Brigade"
+		start_experience_factor = 0.10
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Volkssturm Brigade"
+		location = 11045
+		division_template = "Volkssturm Brigade"
+		start_experience_factor = 0.10
+		start_equipment_factor = 1.0 }
+}

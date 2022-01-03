@@ -1,0 +1,66 @@
+division_template = { #He9
+	name = "Hügel-Garnisonbrigade"			#8w infantry Brigade (Rookie)
+	priority = 0
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		armored_car_recon = { x = 0 y = 1 }
+		military_police = { x = 0 y = 2 }
+	}
+}
+
+units = {
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+	division = {
+		name = "Hügel-Garnisonbrigade"
+		location = 12501
+		division_template = "Hügel-Garnisonbrigade"
+		start_experience_factor = 0.05
+		start_equipment_factor = 1.0 }
+}
